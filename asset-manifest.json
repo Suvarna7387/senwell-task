@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/senwell-task/static/css/main.d1dc5ad7.css",
+    "main.js": "/senwell-task/static/js/main.62177f93.js",
+    "index.html": "/senwell-task/index.html",
+    "main.d1dc5ad7.css.map": "/senwell-task/static/css/main.d1dc5ad7.css.map",
+    "main.62177f93.js.map": "/senwell-task/static/js/main.62177f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dc5ad7.css",
+    "static/js/main.62177f93.js"
+  ]
+}
